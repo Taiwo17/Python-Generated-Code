@@ -529,7 +529,7 @@ Use these official records to complete the remaining checks:
 Start with authentik and ZITADEL for broad IAM, and Logto for application-centric authentication. Run the same proof of concept against Keycloak. Promote only the candidate that passes the security acceptance gate and demonstrates a meaningful operational or functional advantage.
 """
 
-output_path = "C:/Users/USER/Desktop/keycloak_alternatives_research.md"
+output_path = "C:/Users/USER/Desktop/school_project/cv_code/keycloak_alternatives_research.md"
 pypandoc.convert_text(
     markdown,
     "md",
